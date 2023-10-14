@@ -1,0 +1,19 @@
+{
+    "user1" : {
+       "name" : "Rameez",
+       "relation" : "Father",
+       "Occupation" : "Businessman"
+    },
+    
+    "user2" : {
+       "name" : "guddu",
+       "Relation" : "Mother",
+       "Occupation" : "Software Engineer"
+    },
+    
+    "user3" : {
+       "name" : "Bablu",
+       "Relation" : "Brother",
+       "Occupation" : "Vlogger"
+    }
+ }
